@@ -44,9 +44,9 @@
          "required": false,
          "value": "1413280026"
       },
-"GRAND_IMG": {
+"VILENCIA_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/7a948e5e451676e5279ff.jpg"    
+         "value": "https://telegra.ph/file/6fa683f95c4a82c070588.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -80,7 +80,7 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1413280026"
+         "value": "1357000854"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/7a948e5e451676e5279ff.jpg",
+   "logo": "https://telegra.ph/file/6fa683f95c4a82c070588.jpg",
    "name": "❤ Valencia ❤",
    "repository": "https://github.com/Team-Alphas/MissValenciaBot-Pro"
 }
